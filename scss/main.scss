@@ -688,7 +688,7 @@ body{
             #double-ads-one{
                 @include flex(row, left);
                 align-items: start;
-                background-image: url('/images/Group-8.png');
+                background-image: url('images/Group-8.png');
                 background-color: rgb(189, 140, 140);
                 background-size: cover;
                 position: relative;
@@ -759,7 +759,7 @@ body{
             }
 
             #double-ads-two{
-                background-image: url('/images/Group\ 9.png');
+                background-image: url('images/Group 9.png');
                 background-color: rgb(189, 140, 140);
                 position: relative;
                 width: 754px;
@@ -1280,7 +1280,7 @@ body{
         height: 477px;
         border-radius: 12px;
         margin-top: 41px;
-        background-image: url('/images2/Group\ 23.png');
+        background-image: url('images2/Group 23.png');
         background-size: cover;
         position: relative;
 
@@ -1738,7 +1738,7 @@ body{
         @include flex;
         width: 100%;
         height: 659px;
-        background-image: url('/images2/googlemap.png');
+        background-image: url('images2/googlemap.png');
         background-size: cover;
         position: relative;
         // box-shadow: 5px 5px 14px 0px #00000040;
